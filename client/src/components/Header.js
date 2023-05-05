@@ -77,7 +77,7 @@ const Header = () => {
   return (
     <Navbar>
       <Container>
-        <Navbar.Brand>Company Header</Navbar.Brand>
+        <Navbar.Brand>Shopping Marketplace</Navbar.Brand>
         <Nav>{renderLinks()}</Nav>
       </Container>
     </Navbar>
