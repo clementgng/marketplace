@@ -7,7 +7,6 @@ This project uses the REST Javascript frameworks React&Express using NodeJS for 
 - Creating users as buyers or sellers
 - Creating items to sell as a seller
 - Buying items as a buyer
-- Adding a new owner with Puppy ID
 - Listing the order history for a specific buyer
 
 ![alt text](https://github.com/clementgng/marketplace/blob/main/Images/OrderHistory.png "Order_History")
