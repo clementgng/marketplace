@@ -10,7 +10,7 @@ This project uses the REST Javascript frameworks React&Express using NodeJS for 
 - Adding a new owner with Puppy ID
 - Listing the order history for a specific buyer
 
-![alt text](https://github.com/grv231/Puppy-adoption-PythonFlask/blob/master/Images/HomePage.jpg "Home_Page")
+![alt text](https://github.com/clementgng/marketplace/blob/main/Images/OrderHistory.png "Order_History")
 
 ## Project Setup
 Copy the required files in a directory. Then use the following steps to setup the project:

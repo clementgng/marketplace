@@ -105,7 +105,7 @@ const itemSlice = createSlice({
       state.currentItem = null;
       const item = action.payload;
       state.previousItems = state.items.map((obj) => ({ ...obj }));
-      const { id } = item;
+      const { id, name, description, price } = item;
       if (id) {
         // update existing item
         // use the id to find the index of the existing item
