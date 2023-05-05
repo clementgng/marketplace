@@ -9,7 +9,7 @@ This project uses the REST Javascript frameworks React&Express using NodeJS for 
 - Buying items as a buyer
 - Listing the order history for a specific buyer
 
-![alt text](https://github.com/clementgng/marketplace/blob/main/Images/OrderHistory.png "Order_History")
+![alt text](https://github.com/clementgng/marketplace/blob/main/Images/OrdersHistory.png "Order_History")
 
 ## Project Setup
 Copy the required files in a directory. Then use the following steps to setup the project:
